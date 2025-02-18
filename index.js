@@ -15,6 +15,8 @@ function logMessage(message) {
     });
 }
 
+
+
 // Simulated weather data fetcher
 function getWeatherData() {
     const temperature = (Math.random() * 15 + 10).toFixed(2); // Random temperature between 10-25°C

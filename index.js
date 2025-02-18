@@ -4,6 +4,9 @@ const fs = require('fs');
 const path = require('path');
 
 // Log file path
+
+
+
 const logFile = path.join(__dirname, 'weather_log.txt');
 
 // Function to log messages
